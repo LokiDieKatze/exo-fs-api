@@ -1,0 +1,8 @@
+{
+  "name": "exo-fs-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LokiDieKatze/exo-fs-api.git",
+  "author": "LokiDieKatze <sarah.marques.fr@gmail.com>",
+  "license": "MIT"
+}
