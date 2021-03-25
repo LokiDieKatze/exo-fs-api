@@ -3,7 +3,6 @@ const src = process.argv[2]
 const dst = process.argv[3]
 
 
-
 if (process.argv.length !== 4) {
   console.log('Usage: node cp.js sourceFileName destinationFileName')
   process.exit(1)
