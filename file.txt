@@ -1,20 +1,9 @@
-U
-N
-
-D
-E
-U
-X
-
-T
-R
-O
-I
-S
-
-S
-O
-L
-E
-I
-L
+@Promo Hardfork Sur "Comment demander de l'aide à ses camarades"
+- Très indélicat de demander de l'aide sans avoir lu le cours et pratiqué les exemples.
+- Utiliser le chan #🤝entraide-hardfork ne demandez jamais directement en message privé de vous aider, vous allez finir blacklisté par certains.
+- Formuler une question avec comme support à cette question un bout de code, github/gist
+- Si erreurs, copier/coller les messages d'erreurs et les commandes tapées ou ce que vous avez effectué pour obtenir cette erreur.
+- Les problématiques de compréhension de cours ne peuvent être résolues par vos camarades si vous avez besoin d'un autre cours de plus de 10 min. Demandez plutôt quel cours lire, ou quelle partie du cours exacte vous pose problème.
+- Toujours expliquer ce que vous essayez de faire, PRECISEMENT, l'erreur vient souvent de là
+- Le temps est précieux ne prenez pas plus de 10 min à vos camarades
+- Aider n'est pas une obligation, soyez courtois et reconnaissant

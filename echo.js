@@ -3,7 +3,6 @@ if (process.argv.length < 3) {
 }
 
 for (i = 2; i < process.argv.length; i++) {
-
   console.log(`${process.argv[i]}`)
 }
 
